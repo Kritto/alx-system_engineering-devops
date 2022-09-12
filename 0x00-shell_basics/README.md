@@ -1,1 +1,1 @@
-Write a script that prints the type of the file named iamafilein the /tmp/ dir
+Create a symbolic link to /bin/ls, named __ls__
