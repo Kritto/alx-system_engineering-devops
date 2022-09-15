@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name *.jstype f -delete
